@@ -10,5 +10,5 @@ wp-config.php
 /wp-content/themes/*
 
 # Don’t ignore evolve-child theme
-!/wp-content/themes/twentynineteen-child
+!/wp-content/themes/evolve-child
 
